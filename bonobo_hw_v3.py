@@ -19,10 +19,14 @@ def transform(*args):
         return None
     # plus 1 because the first element of args is the system idx
     idx1 = category_dict['LandSlope'] + 1
+    idx2 = category_dict['LotShape'] + 1
+    idx3 = category_dict['Neighborhood'] + 1
 
     # replace the tuple values
     args[idx1] = term_dictionary[args[idx1]]
-    return args
+    args[idx2] = term_dictionary[args[idx2]]
+    args[idx3] = term_dictionary[args[idx3]]
+    return args[1:]
 
 
 # function for writing to the files
@@ -64,7 +68,7 @@ def write_repr_to_file(wr1, wr2, wr3,  *row):
 
 
 def getdict():
-    d = defaultdict()
+    d = defaultdict(lambda: "NA")
     input_file = open("data_description.txt")
     for line in input_file:
         information = line.split('\t')
@@ -120,6 +124,7 @@ if __name__ == '__main__':
     graph = bonobo.Graph()
     graph.add_chain(
         extract,
+        # the transform step will replace the abbr. with its full description
         transform,
         bonobo.Limit(100),
         write_repr_to_file,

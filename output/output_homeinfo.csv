@@ -1,101 +1,101 @@
 LandSlope,Neighborhood,Condition1,Condition2,BldgType,HouseStyle,OverallQual,OverallCond,YearBuilt,YearRemodAdd
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,7,5,2003
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,7,5,2001
-FR2,Gentle slope,NoRidge,Norm,Norm,1Fam,2Story,8,5,2000
-Inside,Gentle slope,Mitchel,Norm,Norm,1Fam,1.5Fin,5,5,1993
-Inside,Gentle slope,Somerst,Norm,Norm,1Fam,1Story,8,5,2004
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,2Story,9,5,2005
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,2006
-Inside,Gentle slope,SawyerW,RRAe,Norm,1Fam,1Story,5,5,2004
-Corner,Gentle slope,NridgHt,Norm,Norm,1Fam,2Story,8,5,2005
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,8,5,2002
-Corner,Gentle slope,NridgHt,Norm,Norm,1Fam,1Story,8,5,2007
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,1Story,8,5,2007
-Corner,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,8,5,2007
-Inside,Gentle slope,NridgHt,Norm,Norm,TwnhsE,1Story,9,5,2005
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,2Story,8,5,2004
-Corner,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,5,5,1994
-CulDSac,Gentle slope,SawyerW,Norm,Norm,1Fam,SFoyer,5,7,1983
-Inside,Gentle slope,NridgHt,Norm,Norm,TwnhsE,1Story,9,5,2005
-CulDSac,Gentle slope,Mitchel,Norm,Norm,1Fam,1.5Fin,7,5,2003
-Inside,Gentle slope,Somerst,Norm,Norm,1Fam,1Story,8,5,2006
-Corner,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,6,1997
-Inside,Gentle slope,Veenker,Norm,Norm,1Fam,1Story,9,5,1981
-Inside,Gentle slope,Somerst,Norm,Norm,Twnhs,2Story,8,5,1999
-Corner,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,7,5,2004
-CulDSac,Gentle slope,StoneBr,Norm,Norm,1Fam,2Story,10,5,2006
-Inside,Gentle slope,SawyerW,RRAe,Norm,1Fam,1Story,6,5,2004
-Inside,Gentle slope,NridgHt,Norm,Norm,TwnhsE,1Story,8,5,2006
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,7,5,1997
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,2Story,8,5,2004
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,2003
-Corner,Gentle slope,Mitchel,Norm,Norm,1Fam,1Story,4,6,1982
-Corner,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,7,5,1998
-FR2,Gentle slope,Mitchel,Norm,Norm,TwnhsE,1Story,6,5,1998
-Inside,Gentle slope,Somerst,Norm,Norm,1Fam,1Story,8,5,2007
-Inside,Gentle slope,Gilbert,Norm,Norm,1Fam,SLvl,7,5,1995
-Corner,Gentle slope,NoRidge,Norm,Norm,1Fam,2Story,8,5,1991
-Inside,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,5,2005
-Corner,Gentle slope,Somerst,Norm,Norm,TwnhsE,2Story,6,5,2009
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,4,5,1994
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,6,5,1997
-Corner,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,8,1993
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,1999
-Inside,Gentle slope,SawyerW,Norm,Norm,1Fam,2Story,6,5,1985
-Corner,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,2009
-Inside,Gentle slope,Somerst,Norm,Norm,1Fam,2Story,8,5,2003
-Inside,Gentle slope,Gilbert,Norm,Norm,1Fam,SLvl,7,5,2000
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,7,5,2007
-Corner,Gentle slope,Somerst,Norm,Norm,TwnhsE,2Story,6,5,1999
-Corner,Gentle slope,Edwards,Norm,Norm,1Fam,1Story,5,5,2006
-Corner,Gentle slope,SawyerW,Norm,Norm,1Fam,2Story,7,5,1990
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,6,5,2005
-Inside,Gentle slope,SawyerW,Norm,Norm,TwnhsE,1Story,6,5,1993
-Corner,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,5,2000
-Inside,Gentle slope,Timber,Norm,Norm,1Fam,1Story,8,5,2001
-Inside,Gentle slope,Mitchel,Norm,Norm,Duplex,1Story,7,5,1988
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,8,5,1999
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,2Story,6,5,1997
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,2005
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,1999
-Inside,Gentle slope,Edwards,Norm,Norm,Twnhs,2Story,6,5,2004
-CulDSac,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,7,5,2001
-Inside,Gentle slope,SawyerW,Norm,Norm,1Fam,1Story,7,5,2004
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,1Story,8,5,2007
-Corner,Gentle slope,Timber,Norm,Norm,1Fam,2Story,8,5,2009
-Corner,Gentle slope,Somerst,Norm,Norm,1Fam,2Story,7,5,2004
-Corner,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,7,5,2005
-CulDSac,Gentle slope,Veenker,Norm,Norm,1Fam,1Story,6,6,1984
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,2Story,9,5,2003
-Corner,Gentle slope,NridgHt,Norm,Norm,1Fam,1Story,7,5,2005
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,2Story,8,5,2007
-Inside,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,7,5,2004
-Corner,Gentle slope,Timber,Norm,Norm,1Fam,1Story,8,6,1981
-Inside,Gentle slope,StoneBr,Norm,Norm,TwnhsE,2Story,7,7,1987
-Inside,Gentle slope,Timber,Norm,Norm,1Fam,1Story,6,5,1986
-Corner,Gentle slope,ClearCr,Norm,Norm,1Fam,2Story,6,5,1988
-CulDSac,Gentle slope,StoneBr,Norm,Norm,1Fam,1Story,9,5,2008
-Inside,Gentle slope,Somerst,Norm,Norm,Twnhs,2Story,6,5,2000
-Inside,Gentle slope,OldTown,Norm,Norm,1Fam,1.5Fin,7,5,2003
-CulDSac,Gentle slope,Mitchel,Norm,Norm,1Fam,SLvl,7,5,1990
-Inside,Gentle slope,StoneBr,Norm,Norm,TwnhsE,1Story,8,5,2001
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,1999
-Inside,Gentle slope,Edwards,Norm,Norm,Twnhs,2Story,7,5,2004
-Inside,Gentle slope,Somerst,Norm,Norm,1Fam,1Story,7,5,2007
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,1Story,8,5,2004
-Corner,Gentle slope,Edwards,Norm,Norm,1Fam,1Story,4,5,2003
-Inside,Gentle slope,CollgCr,Norm,Norm,TwnhsE,1Story,6,5,2004
-Corner,Gentle slope,Gilbert,Norm,Norm,1Fam,1Story,7,5,1990
-Inside,Moderate Deductions,SawyerW,Norm,Norm,1Fam,2Story,7,5,1988
-Corner,Gentle slope,Edwards,Norm,Norm,1Fam,1Story,6,5,2009
-Inside,Gentle slope,Somerst,Norm,Norm,1Fam,2Story,7,5,2009
-CulDSac,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,5,5,1995
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,2004
-Inside,Gentle slope,Blmngtn,Norm,Norm,TwnhsE,1Story,7,5,2005
-Inside,Gentle slope,CollgCr,Norm,Norm,1Fam,1Story,7,5,2006
-Inside,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,5,2002
-Inside,Gentle slope,NridgHt,Norm,Norm,1Fam,1Story,10,5,2003
-Inside,Gentle slope,NoRidge,Norm,Norm,1Fam,2Story,7,5,1995
-Inside,Gentle slope,Blmngtn,Norm,Norm,TwnhsE,1Story,7,5,2005
-Inside,Gentle slope,NoRidge,Norm,Norm,1Fam,2Story,8,5,1995
-Inside,Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,5,2002
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,7,5,2003,2003
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,7,5,2001,2002
+Gentle slope,Northridge,Norm,Norm,1Fam,2Story,8,5,2000,2000
+Gentle slope,Mitchell,Norm,Norm,1Fam,1.5Fin,5,5,1993,1995
+Gentle slope,Somerset,Norm,Norm,1Fam,1Story,8,5,2004,2005
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,2Story,9,5,2005,2006
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,2006,2007
+Gentle slope,Sawyer West,RRAe,Norm,1Fam,1Story,5,5,2004,2004
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,2Story,8,5,2005,2006
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,8,5,2002,2002
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,1Story,8,5,2007,2007
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,1Story,8,5,2007,2008
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,8,5,2007,2007
+Gentle slope,Northridge Heights,Norm,Norm,TwnhsE,1Story,9,5,2005,2005
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,2Story,8,5,2004,2005
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,5,5,1994,1995
+Gentle slope,Sawyer West,Norm,Norm,1Fam,SFoyer,5,7,1983,1983
+Gentle slope,Northridge Heights,Norm,Norm,TwnhsE,1Story,9,5,2005,2005
+Gentle slope,Mitchell,Norm,Norm,1Fam,1.5Fin,7,5,2003,2003
+Gentle slope,Somerset,Norm,Norm,1Fam,1Story,8,5,2006,2006
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,6,1997,1997
+Gentle slope,Veenker,Norm,Norm,1Fam,1Story,9,5,1981,1987
+Gentle slope,Somerset,Norm,Norm,Twnhs,2Story,8,5,1999,2000
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,7,5,2004,2004
+Gentle slope,Stone Brook,Norm,Norm,1Fam,2Story,10,5,2006,2006
+Gentle slope,Sawyer West,RRAe,Norm,1Fam,1Story,6,5,2004,2004
+Gentle slope,Northridge Heights,Norm,Norm,TwnhsE,1Story,8,5,2006,2006
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,7,5,1997,1998
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,2Story,8,5,2004,2005
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,2003,2003
+Gentle slope,Mitchell,Norm,Norm,1Fam,1Story,4,6,1982,2006
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,7,5,1998,1998
+Gentle slope,Mitchell,Norm,Norm,TwnhsE,1Story,6,5,1998,1998
+Gentle slope,Somerset,Norm,Norm,1Fam,1Story,8,5,2007,2007
+Gentle slope,Gilbert,Norm,Norm,1Fam,SLvl,7,5,1995,1996
+Gentle slope,Northridge,Norm,Norm,1Fam,2Story,8,5,1991,1992
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,5,2005,2005
+Gentle slope,Somerset,Norm,Norm,TwnhsE,2Story,6,5,2009,2009
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,4,5,1994,1995
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,6,5,1997,1997
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,8,1993,1993
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,1999,1999
+Gentle slope,Sawyer West,Norm,Norm,1Fam,2Story,6,5,1985,1985
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,2009,2009
+Gentle slope,Somerset,Norm,Norm,1Fam,2Story,8,5,2003,2004
+Gentle slope,Gilbert,Norm,Norm,1Fam,SLvl,7,5,2000,2000
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,7,5,2007,2007
+Gentle slope,Somerset,Norm,Norm,TwnhsE,2Story,6,5,1999,1999
+Gentle slope,Edwards,Norm,Norm,1Fam,1Story,5,5,2006,2007
+Gentle slope,Sawyer West,Norm,Norm,1Fam,2Story,7,5,1990,1990
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,6,5,2005,2006
+Gentle slope,Sawyer West,Norm,Norm,TwnhsE,1Story,6,5,1993,1993
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,5,2000,2000
+Gentle slope,Timberland,Norm,Norm,1Fam,1Story,8,5,2001,2002
+Gentle slope,Mitchell,Norm,Norm,Duplex,1Story,7,5,1988,1989
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,8,5,1999,2000
+Gentle slope,College Creek,Norm,Norm,1Fam,2Story,6,5,1997,1997
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,2005,2005
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,1999,1999
+Gentle slope,Edwards,Norm,Norm,Twnhs,2Story,6,5,2004,2006
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,7,5,2001,2001
+Gentle slope,Sawyer West,Norm,Norm,1Fam,1Story,7,5,2004,2005
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,1Story,8,5,2007,2008
+Gentle slope,Timberland,Norm,Norm,1Fam,2Story,8,5,2009,2010
+Gentle slope,Somerset,Norm,Norm,1Fam,2Story,7,5,2004,2005
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,7,5,2005,2006
+Gentle slope,Veenker,Norm,Norm,1Fam,1Story,6,6,1984,1984
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,2Story,9,5,2003,2004
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,1Story,7,5,2005,2005
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,2Story,8,5,2007,2007
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,7,5,2004,2004
+Gentle slope,Timberland,Norm,Norm,1Fam,1Story,8,6,1981,1981
+Gentle slope,Stone Brook,Norm,Norm,TwnhsE,2Story,7,7,1987,1987
+Gentle slope,Timberland,Norm,Norm,1Fam,1Story,6,5,1986,1986
+Gentle slope,Clear Creek,Norm,Norm,1Fam,2Story,6,5,1988,1989
+Gentle slope,Stone Brook,Norm,Norm,1Fam,1Story,9,5,2008,2009
+Gentle slope,Somerset,Norm,Norm,Twnhs,2Story,6,5,2000,2000
+Gentle slope,Old Town,Norm,Norm,1Fam,1.5Fin,7,5,2003,2003
+Gentle slope,Mitchell,Norm,Norm,1Fam,SLvl,7,5,1990,1991
+Gentle slope,Stone Brook,Norm,Norm,TwnhsE,1Story,8,5,2001,2002
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,1999,1999
+Gentle slope,Edwards,Norm,Norm,Twnhs,2Story,7,5,2004,2004
+Gentle slope,Somerset,Norm,Norm,1Fam,1Story,7,5,2007,2007
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,1Story,8,5,2004,2005
+Gentle slope,Edwards,Norm,Norm,1Fam,1Story,4,5,2003,2004
+Gentle slope,College Creek,Norm,Norm,TwnhsE,1Story,6,5,2004,2004
+Gentle slope,Gilbert,Norm,Norm,1Fam,1Story,7,5,1990,1990
+Moderate Deductions,Sawyer West,Norm,Norm,1Fam,2Story,7,5,1988,1989
+Gentle slope,Edwards,Norm,Norm,1Fam,1Story,6,5,2009,2009
+Gentle slope,Somerset,Norm,Norm,1Fam,2Story,7,5,2009,2009
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,5,5,1995,1995
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,2004,2004
+Gentle slope,Bloomington Heights,Norm,Norm,TwnhsE,1Story,7,5,2005,2006
+Gentle slope,College Creek,Norm,Norm,1Fam,1Story,7,5,2006,2006
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,5,2002,2002
+Gentle slope,Northridge Heights,Norm,Norm,1Fam,1Story,10,5,2003,2003
+Gentle slope,Northridge,Norm,Norm,1Fam,2Story,7,5,1995,1995
+Gentle slope,Bloomington Heights,Norm,Norm,TwnhsE,1Story,7,5,2005,2006
+Gentle slope,Northridge,Norm,Norm,1Fam,2Story,8,5,1995,1996
+Gentle slope,Gilbert,Norm,Norm,1Fam,2Story,6,5,2002,2002
