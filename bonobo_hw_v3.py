@@ -73,7 +73,7 @@ def getdict():
     for line in input_file:
         information = line.split('\t')
         # get rid of the information-less tuples
-        if len(information) != 2 or information[0].strip().startswith('\n') or len(information[0])==0 or not information[0].startswith(' '):
+        if len(information) < 2 or information[0].strip().startswith('\n') or len(information[0])==0 or not information[0].startswith(' '):
             continue
         # build the dictionary from the tuples with data cleaning
         term = information[0].strip()

@@ -1,101 +1,101 @@
 Id,MSSubClass,MSZoning,LotFrontage,LotArea,Street,Alley,LotShape,LandContour,Utilities,LotConfig
-1,60,RL,65.0,8450,Pave,nan,NA,Lvl,AllPub,Inside
+1,60,RL,65.0,8450,Pave,nan,Regular,Lvl,AllPub,Inside
 3,60,RL,68.0,11250,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
 5,60,RL,84.0,14260,Pave,nan,Slightly irregular,Lvl,AllPub,FR2
 6,50,RL,85.0,14115,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-7,20,RL,75.0,10084,Pave,nan,NA,Lvl,AllPub,Inside
+7,20,RL,75.0,10084,Pave,nan,Regular,Lvl,AllPub,Inside
 12,60,RL,85.0,11924,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
 14,20,RL,91.0,10652,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-19,20,RL,66.0,13695,Pave,nan,NA,Lvl,AllPub,Inside
+19,20,RL,66.0,13695,Pave,nan,Regular,Lvl,AllPub,Inside
 21,60,RL,101.0,14215,Pave,nan,Slightly irregular,Lvl,AllPub,Corner
-23,20,RL,75.0,9742,Pave,nan,NA,Lvl,AllPub,Inside
-26,20,RL,110.0,14230,Pave,nan,NA,Lvl,AllPub,Corner
-28,20,RL,98.0,11478,Pave,nan,NA,Lvl,AllPub,Inside
-33,20,RL,85.0,11049,Pave,nan,NA,Lvl,AllPub,Corner
-35,120,RL,60.0,7313,Pave,nan,NA,Lvl,AllPub,Inside
-36,60,RL,108.0,13418,Pave,nan,NA,Lvl,AllPub,Inside
-37,20,RL,112.0,10859,Pave,nan,NA,Lvl,AllPub,Corner
+23,20,RL,75.0,9742,Pave,nan,Regular,Lvl,AllPub,Inside
+26,20,RL,110.0,14230,Pave,nan,Regular,Lvl,AllPub,Corner
+28,20,RL,98.0,11478,Pave,nan,Regular,Lvl,AllPub,Inside
+33,20,RL,85.0,11049,Pave,nan,Regular,Lvl,AllPub,Corner
+35,120,RL,60.0,7313,Pave,nan,Regular,Lvl,AllPub,Inside
+36,60,RL,108.0,13418,Pave,nan,Regular,Lvl,AllPub,Inside
+37,20,RL,112.0,10859,Pave,nan,Regular,Lvl,AllPub,Corner
 43,85,RL,nan,9180,Pave,nan,Slightly irregular,Lvl,AllPub,CulDSac
-46,120,RL,61.0,7658,Pave,nan,NA,Lvl,AllPub,Inside
+46,120,RL,61.0,7658,Pave,nan,Regular,Lvl,AllPub,Inside
 47,50,RL,48.0,12822,Pave,nan,Slightly irregular,Lvl,AllPub,CulDSac
-48,20,FV,84.0,11096,Pave,nan,NA,Lvl,AllPub,Inside
+48,20,FV,84.0,11096,Pave,nan,Regular,Lvl,AllPub,Inside
 51,60,RL,nan,13869,Pave,nan,Moderately Irregular,Lvl,AllPub,Corner
 54,20,RL,68.0,50271,Pave,nan,Slightly irregular,Low,AllPub,Inside
-57,160,FV,24.0,2645,Pave,Pave,NA,Lvl,AllPub,Inside
+57,160,FV,24.0,2645,Pave,Pave,Regular,Lvl,AllPub,Inside
 58,60,RL,89.0,11645,Pave,nan,Slightly irregular,Lvl,AllPub,Corner
 59,60,RL,66.0,13682,Pave,nan,Moderately Irregular,HLS,AllPub,CulDSac
-61,20,RL,63.0,13072,Pave,nan,NA,Lvl,AllPub,Inside
+61,20,RL,63.0,13072,Pave,nan,Regular,Lvl,AllPub,Inside
 63,120,RL,44.0,6442,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-65,60,RL,nan,9375,Pave,nan,NA,Lvl,AllPub,Inside
-66,60,RL,76.0,9591,Pave,nan,NA,Lvl,AllPub,Inside
+65,60,RL,nan,9375,Pave,nan,Regular,Lvl,AllPub,Inside
+66,60,RL,76.0,9591,Pave,nan,Regular,Lvl,AllPub,Inside
 68,20,RL,72.0,10665,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-72,20,RL,69.0,7599,Pave,nan,NA,Lvl,AllPub,Corner
+72,20,RL,69.0,7599,Pave,nan,Regular,Lvl,AllPub,Corner
 73,60,RL,74.0,10141,Pave,nan,Slightly irregular,Lvl,AllPub,Corner
-82,120,RM,32.0,4500,Pave,nan,NA,Lvl,AllPub,FR2
-83,20,RL,78.0,10206,Pave,nan,NA,Lvl,AllPub,Inside
+82,120,RM,32.0,4500,Pave,nan,Regular,Lvl,AllPub,FR2
+83,20,RL,78.0,10206,Pave,nan,Regular,Lvl,AllPub,Inside
 85,80,RL,nan,8530,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-86,60,RL,121.0,16059,Pave,nan,NA,Lvl,AllPub,Corner
+86,60,RL,121.0,16059,Pave,nan,Regular,Lvl,AllPub,Corner
 87,60,RL,122.0,11911,Pave,nan,Moderately Irregular,Lvl,AllPub,Inside
-88,160,FV,40.0,3951,Pave,Pave,NA,Lvl,AllPub,Corner
-90,20,RL,60.0,8070,Pave,nan,NA,Lvl,AllPub,Inside
+88,160,FV,40.0,3951,Pave,Pave,Regular,Lvl,AllPub,Corner
+90,20,RL,60.0,8070,Pave,nan,Regular,Lvl,AllPub,Inside
 95,60,RL,69.0,9337,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
 96,60,RL,nan,9765,Pave,nan,Moderately Irregular,Lvl,AllPub,Corner
 97,20,RL,78.0,10264,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-102,60,RL,77.0,9206,Pave,nan,NA,Lvl,AllPub,Inside
+102,60,RL,77.0,9206,Pave,nan,Regular,Lvl,AllPub,Inside
 104,20,RL,94.0,10402,Pave,nan,Slightly irregular,Lvl,AllPub,Corner
-106,60,FV,75.0,9375,Pave,nan,NA,Lvl,AllPub,Inside
+106,60,FV,75.0,9375,Pave,nan,Regular,Lvl,AllPub,Inside
 112,80,RL,nan,7750,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-113,60,RL,77.0,9965,Pave,nan,NA,Lvl,AllPub,Inside
-116,160,FV,34.0,3230,Pave,Pave,NA,Lvl,AllPub,Corner
-118,20,RL,74.0,8536,Pave,nan,NA,Lvl,AllPub,Corner
-119,60,RL,90.0,12376,Pave,nan,NA,Lvl,AllPub,Corner
-120,60,RL,65.0,8461,Pave,nan,NA,Lvl,AllPub,Inside
-124,120,RL,55.0,7892,Pave,nan,NA,Lvl,AllPub,Inside
+113,60,RL,77.0,9965,Pave,nan,Regular,Lvl,AllPub,Inside
+116,160,FV,34.0,3230,Pave,Pave,Regular,Lvl,AllPub,Corner
+118,20,RL,74.0,8536,Pave,nan,Regular,Lvl,AllPub,Corner
+119,60,RL,90.0,12376,Pave,nan,Regular,Lvl,AllPub,Corner
+120,60,RL,65.0,8461,Pave,nan,Regular,Lvl,AllPub,Inside
+124,120,RL,55.0,7892,Pave,nan,Regular,Lvl,AllPub,Inside
 132,60,RL,nan,12224,Pave,nan,Slightly irregular,Lvl,AllPub,Corner
 134,20,RL,nan,6853,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-138,90,RL,82.0,11070,Pave,nan,NA,Lvl,AllPub,Inside
+138,90,RL,82.0,11070,Pave,nan,Regular,Lvl,AllPub,Inside
 139,60,RL,73.0,9066,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
 140,60,RL,65.0,15426,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-142,20,RL,78.0,11645,Pave,nan,NA,Lvl,AllPub,Inside
+142,20,RL,78.0,11645,Pave,nan,Regular,Lvl,AllPub,Inside
 144,20,RL,78.0,10335,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-146,160,RM,24.0,2522,Pave,nan,NA,Lvl,AllPub,Inside
+146,160,RM,24.0,2522,Pave,nan,Regular,Lvl,AllPub,Inside
 148,60,RL,nan,9505,Pave,nan,Slightly irregular,Lvl,AllPub,CulDSac
-149,20,RL,63.0,7500,Pave,nan,NA,Lvl,AllPub,Inside
-152,20,RL,107.0,13891,Pave,nan,NA,Lvl,AllPub,Inside
-158,60,RL,92.0,12003,Pave,nan,NA,Lvl,AllPub,Corner
-159,60,FV,100.0,12552,Pave,nan,NA,Lvl,AllPub,Corner
+149,20,RL,63.0,7500,Pave,nan,Regular,Lvl,AllPub,Inside
+152,20,RL,107.0,13891,Pave,nan,Regular,Lvl,AllPub,Inside
+158,60,RL,92.0,12003,Pave,nan,Regular,Lvl,AllPub,Corner
+159,60,FV,100.0,12552,Pave,nan,Regular,Lvl,AllPub,Corner
 160,60,RL,134.0,19378,Pave,nan,Slightly irregular,HLS,AllPub,Corner
 161,20,RL,nan,11120,Pave,nan,Slightly irregular,Lvl,AllPub,CulDSac
 162,60,RL,110.0,13688,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-163,20,RL,95.0,12182,Pave,nan,NA,Lvl,AllPub,Corner
-168,60,RL,86.0,10562,Pave,nan,NA,Lvl,AllPub,Inside
+163,20,RL,95.0,12182,Pave,nan,Regular,Lvl,AllPub,Corner
+168,60,RL,86.0,10562,Pave,nan,Regular,Lvl,AllPub,Inside
 169,60,RL,62.0,8244,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
 170,20,RL,nan,16669,Pave,nan,Slightly irregular,Lvl,AllPub,Corner
 173,160,RL,44.0,5306,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
 175,20,RL,47.0,12416,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
 177,60,RL,97.0,10029,Pave,nan,Slightly irregular,Lvl,AllPub,Corner
 179,20,RL,63.0,17423,Pave,nan,Slightly irregular,Lvl,AllPub,CulDSac
-181,160,FV,nan,2117,Pave,nan,NA,Lvl,AllPub,Inside
-184,50,RM,63.0,11426,Pave,nan,NA,Lvl,AllPub,Inside
+181,160,FV,nan,2117,Pave,nan,Regular,Lvl,AllPub,Inside
+184,50,RM,63.0,11426,Pave,nan,Regular,Lvl,AllPub,Inside
 187,80,RL,nan,9947,Pave,nan,Slightly irregular,Lvl,AllPub,CulDSac
-190,120,RL,41.0,4923,Pave,nan,NA,Lvl,AllPub,Inside
+190,120,RL,41.0,4923,Pave,nan,Regular,Lvl,AllPub,Inside
 193,20,RL,68.0,9017,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-194,160,RM,24.0,2522,Pave,nan,NA,Lvl,AllPub,Inside
-197,20,RL,79.0,9416,Pave,nan,NA,Lvl,AllPub,Inside
-200,20,RL,76.0,9591,Pave,nan,NA,Lvl,AllPub,Inside
-201,20,RM,80.0,8546,Pave,nan,NA,Lvl,AllPub,Corner
-204,120,RM,nan,4438,Pave,nan,NA,Lvl,AllPub,Inside
-206,20,RL,99.0,11851,Pave,nan,NA,Lvl,AllPub,Corner
+194,160,RM,24.0,2522,Pave,nan,Regular,Lvl,AllPub,Inside
+197,20,RL,79.0,9416,Pave,nan,Regular,Lvl,AllPub,Inside
+200,20,RL,76.0,9591,Pave,nan,Regular,Lvl,AllPub,Inside
+201,20,RM,80.0,8546,Pave,nan,Regular,Lvl,AllPub,Corner
+204,120,RM,nan,4438,Pave,nan,Regular,Lvl,AllPub,Inside
+206,20,RL,99.0,11851,Pave,nan,Regular,Lvl,AllPub,Corner
 209,60,RL,nan,14364,Pave,nan,Slightly irregular,Low,AllPub,Inside
-212,20,RL,83.0,10420,Pave,nan,NA,Lvl,AllPub,Corner
-213,60,FV,72.0,8640,Pave,nan,NA,Lvl,AllPub,Inside
+212,20,RL,83.0,10420,Pave,nan,Regular,Lvl,AllPub,Corner
+213,60,FV,72.0,8640,Pave,nan,Regular,Lvl,AllPub,Inside
 214,20,RL,43.0,13568,Pave,nan,Moderately Irregular,Lvl,AllPub,CulDSac
-217,20,RL,65.0,8450,Pave,nan,NA,Lvl,AllPub,Inside
-220,120,RL,43.0,3010,Pave,nan,NA,Lvl,AllPub,Inside
+217,20,RL,65.0,8450,Pave,nan,Regular,Lvl,AllPub,Inside
+220,120,RL,43.0,3010,Pave,nan,Regular,Lvl,AllPub,Inside
 221,20,RL,73.0,8990,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
 222,60,RL,nan,8068,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-225,20,RL,103.0,13472,Pave,nan,NA,Lvl,AllPub,Inside
+225,20,RL,103.0,13472,Pave,nan,Regular,Lvl,AllPub,Inside
 227,60,RL,82.0,9950,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-230,120,RL,43.0,3182,Pave,nan,NA,Lvl,AllPub,Inside
+230,120,RL,43.0,3182,Pave,nan,Regular,Lvl,AllPub,Inside
 232,60,RL,174.0,15138,Pave,nan,Slightly irregular,Lvl,AllPub,Inside
-235,60,RL,nan,7851,Pave,nan,NA,Lvl,AllPub,Inside
+235,60,RL,nan,7851,Pave,nan,Regular,Lvl,AllPub,Inside

@@ -23,24 +23,29 @@ RH,Residential High Density
 RL,Residential Low Density
 RP,Residential Low Density Park
 RM,Residential Medium Density
+Grvl,Gravel
 Pave,Paved
 ,
-Grvl,Gravel
 NA,None
+Reg,Regular
 IR1,Slightly irregular
 IR2,Moderately Irregular
 IR3,Irregular
+Lvl,Near Flat/Level
 Bnk,Banked - Quick and significant rise from street grade to building
 HLS,Hillside - Significant slope from side to side
 Low,Depression
+AllPub,All public Utilities (E,G,W,& S)
 NoSewr,Electricity, Gas, and Water (Septic Tank)
 NoSeWa,Electricity and Gas Only
+ELO,Electricity only
 Inside,Inside lot
 Corner,Corner lot
 CulDSac,Cul-de-sac
 FR2,Frontage on 2 sides of property
 FR3,Frontage on 3 sides of property
 Gtl,Gentle slope
+Mod,Moderate Deductions
 Sev,Severely Damaged
 Blmngtn,Bloomington Heights
 Blueste,Bluestem
@@ -68,12 +73,15 @@ StoneBr,Stone Brook
 Timber,Timberland
 Veenker,Veenker
 Artery,Adjacent to arterial street
+Feedr,Adjacent to feeder street
+Norm,Normal
 RRNn,Within 200' of North-South Railroad
 RRAn,Adjacent to North-South Railroad
 PosN,Near positive off-site feature--park, greenbelt, etc.
 PosA,Adjacent to postive off-site feature
 RRNe,Within 200' of East-West Railroad
 RRAe,Adjacent to East-West Railroad
+1Fam,Single-family Detached
 2FmCon,Two-family Conversion; originally built as one-family dwelling
 Duplx,Duplex
 TwnhsE,Townhouse End Unit
@@ -121,12 +129,12 @@ ImStucc,Imitation Stucco
 MetalSd,Metal Siding
 Other,Other
 Plywood,Plywood
+PreCast,PreCast
 Stone,Stone
 Stucco,Stucco
 VinylSd,Vinyl Siding
 Wd Sdng,Wood Siding
 WdShing,Wood Shingles
-PreCast,PreCast
 BrkCmn,Brick Common
 None,None
 Ex,Excellent
@@ -135,30 +143,34 @@ TA,Average/Typical
 Fa,Fair
 Po,Poor
 BrkTil,Brick & Tile
+PConc,Poured Contrete
 Slab,Slab
 Wood,Wood
+Av,Average Exposure (split levels or foyers typically score average or above)
 Mn,Mimimum Exposure
 No,No Exposure
 GLQ,Good Living Quarters
 ALQ,Average Living Quarters
+BLQ,Below Average Living Quarters
 Rec,Average Rec Room
 LwQ,Low Quality
 Unf,Unfinished
 Floor,Floor Furnace
 GasA,Gas forced warm air furnace
 GasW,Gas hot water or steam heat
+Grav,Gravity furnace
 OthW,Hot water or steam heat other than gas
 Wall,Wall furnace
 N,Dirt/Gravel
 Y,Paved
 SBrkr,Standard Circuit Breakers & Romex
+FuseA,Fuse Box over 60 AMP and all Romex wiring (Average)
 FuseF,60 AMP Fuse Box and mostly Romex wiring (Fair)
 FuseP,60 AMP Fuse Box and mostly knob & tube wiring (poor)
 Mix,Mixed
 Typ,Typical Functionality
 Min1,Minor Deductions 1
 Min2,Minor Deductions 2
-Mod,Moderate Deductions
 Maj1,Major Deductions 1
 Maj2,Major Deductions 2
 Sal,Salvage only
@@ -169,6 +181,7 @@ BuiltIn,Built-In (Garage part of house - typically has room above garage)
 CarPort,Car Port
 Detchd,Detached from home
 Fin,Finished
+RFn,Rough Finished
 P,Partial Pavement
 GdPrv,Good Privacy
 MnPrv,Minimum Privacy
@@ -191,5 +204,6 @@ Oth,Other
 Normal,Normal Sale
 Abnorml,Abnormal Sale -  trade, foreclosure, short sale
 AdjLand,Adjoining Land Purchase
+Alloca,Allocation - two linked properties with separate deeds, typically condo with a garage unit
 Family,Sale between family members
 Partial,Home was not completed when last assessed (associated with New Homes)
