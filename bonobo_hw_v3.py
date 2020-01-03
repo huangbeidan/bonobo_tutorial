@@ -117,8 +117,8 @@ if __name__ == '__main__':
     # divide the table into 3 sub-tables
     # TODO: The index needs to be changed according to the requirements
     lotinfo_idx = [0,1,2,3,4,5,6,7,8,9,10]
-    homeinfo_idx = [11,12,13,14,15,16,17,18,19,20]
-    salesinfo_idx = [21,22,23,24,25]
+    homeinfo_idx = [0,11,12,13,14,15,16,17,18,19,20]
+    salesinfo_idx = [0,21,22,23,24,25]
 
     # build Bonobo pipeline
     graph = bonobo.Graph()
