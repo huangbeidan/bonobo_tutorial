@@ -5,4 +5,4 @@ The Python IDE I use is PyCharm, and I strongly recommend it.
 
 I referenced some examples from Bonobo Websites: http://docs.bonobo-project.org/en/master/tutorial/1-init.html
 
-For the follow-up questions, the codes are in the ppt slides
+For the follow-up questions, the codes are in the ppt slides： https://github.com/huangbeidan/bonobo_tutorial/blob/master/Bonobo_wk1.pdf
